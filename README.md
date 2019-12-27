@@ -1,5 +1,4 @@
-# hardvardx-projects
-Repository for the HarvardX PH125.9x Data Science Capstone projects
+# Repository for the HarvardX PH125.9x Data Science Capstone projects
 
 Author: Jayaalakshmi Udhayasurian
 
