@@ -1,6 +1,6 @@
 # Repository for the HarvardX PH125.9x Data Science Capstone projects
 
-Author: Jayaalakshmi Udhayasurian
+Author: Jayaalakshmi Udhayasurian 
 
 This repository contains files in R for the HarvardX PH125.9x Data Science course's capstone project.
 
